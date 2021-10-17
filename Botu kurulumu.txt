@@ -1,0 +1,15 @@
+Merhaba HoŞ Geldin 
+
+Alt yapıyı kurmak için ayarlar.jsona bazı şeyleri girmen lazım 
+
+{
+  "prefix": "PREFİX", Botun prefxi 
+  "sahip": ["SAHİP İD"], Botun sahip idsi
+  "geliştiriciler": ["DEVELOPER İD"], botun geliştiricilerin id si
+  "destek":["SUNUCU ONAYLAYIN EKİBİN İD"], (prefix)id-onayla ile sunucu onaylayan ekipteki kişilerin id si
+  "token": "TOKEN", Botun token id si
+  "port": 8000 Buna elemene gerek yok 
+}
+
+
+Bu arada bota küçük bir site var botu açarken zaten oda açılıyor http://localhost:8000/ yazarka kendi bilgisiarınız üzerinden gire bilirsiniz 
